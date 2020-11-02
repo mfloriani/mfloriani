@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying a master in Computer Science for Game Development.
+I'm currently studying a master in Computer Science for Game Development.  
 Check out here my projects on developing games and game engines.
 
 <!--
