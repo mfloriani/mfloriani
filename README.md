@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently studying a master in Computer Science for Game Development.
+Check out here my projects on developing games and game engines.
+
 <!--
 **mfloriani/mfloriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
